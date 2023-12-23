@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-project-andi-tash/static/css/main.ae6245d4.css",
+    "main.js": "/react-project-andi-tash/static/js/main.0d406318.js",
+    "index.html": "/react-project-andi-tash/index.html",
+    "main.ae6245d4.css.map": "/react-project-andi-tash/static/css/main.ae6245d4.css.map",
+    "main.0d406318.js.map": "/react-project-andi-tash/static/js/main.0d406318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6245d4.css",
+    "static/js/main.0d406318.js"
+  ]
+}
