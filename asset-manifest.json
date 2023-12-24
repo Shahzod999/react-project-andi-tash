@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-project-andi-tash/static/css/main.ae6245d4.css",
-    "main.js": "/react-project-andi-tash/static/js/main.0d406318.js",
+    "main.css": "/react-project-andi-tash/static/css/main.d1c55eb6.css",
+    "main.js": "/react-project-andi-tash/static/js/main.f4fb71aa.js",
     "index.html": "/react-project-andi-tash/index.html",
-    "main.ae6245d4.css.map": "/react-project-andi-tash/static/css/main.ae6245d4.css.map",
-    "main.0d406318.js.map": "/react-project-andi-tash/static/js/main.0d406318.js.map"
+    "main.d1c55eb6.css.map": "/react-project-andi-tash/static/css/main.d1c55eb6.css.map",
+    "main.f4fb71aa.js.map": "/react-project-andi-tash/static/js/main.f4fb71aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae6245d4.css",
-    "static/js/main.0d406318.js"
+    "static/css/main.d1c55eb6.css",
+    "static/js/main.f4fb71aa.js"
   ]
 }
