@@ -100,3 +100,12 @@ form button:hover {
 .avatar{
     max-height: 200px;
 }
+
+
+@media (max-width: 775px) {
+    aside {
+        width: 80%;
+        margin-top: 50px;
+        margin-left: 5%;
+    }
+}
